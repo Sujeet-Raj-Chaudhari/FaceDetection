@@ -29,4 +29,3 @@ while True:
 
   if key == 81 or key == 113:
     break
-
